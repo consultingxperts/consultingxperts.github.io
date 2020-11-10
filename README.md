@@ -1,4 +1,4 @@
 # www.consultingxperts.com
 ConsultingXperts public site
 
-# syntax error 504
+# syntax error 50
